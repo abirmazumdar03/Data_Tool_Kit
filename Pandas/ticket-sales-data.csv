@@ -1,0 +1,104 @@
+TransactionID,CustomerID,Date,Time,EventName,Venue,TicketClass,TicketPrice,NumberOfTickets,TotalAmount,DiscountPercentage,ServiceFee,FinalAmount,PaymentMode,IsOnlineBooking
+7VR2GDAU9F,92458671,2024-09-12,15:41,Theater Production,Grand Theater,Regular,147.83,1,147.83,0.0,11.41,147.83,UPI,True
+60RKNQIYMJ,53761204,2024-09-28,22:53,Comedy Night,City Arena,Silver,273.41,2,546.82,0.0,33.91,546.82,Credit Card,True
+ETMWYAQ4D6,46981752,2024-09-26,19:37,Dance Performance,Sports Stadium,Silver,245.29,1,245.29,0.0,18.89,245.29,Debit Card,False
+UCNG90WDET,74362815,2024-10-13,20:10,Theater Production,Community Hall,Regular,123.57,3,370.71,0.0,30.68,370.71,Credit Card,True
+WLF15J69NI,41892736,2024-10-02,14:49,Summer Music Festival,Sports Stadium,Regular,157.92,3,473.76,0.0,25.21,473.76,Wallet,True
+FTX357C8YE,19867354,2024-10-08,13:22,Dance Performance,University Auditorium,Regular,176.25,2,352.5,10.0,23.63,317.25,UPI,True
+H1KYF4AU0W,63459018,2024-09-23,10:07,Food Festival,Convention Center,Gold,483.72,1,483.72,0.0,40.85,483.72,Credit Card,True
+05NQSM2KBP,27586403,2024-09-29,15:18,Summer Music Festival,City Arena,Regular,127.65,1,127.65,0.0,12.09,127.65,Cash,False
+5P0T624RQJ,80514763,2024-09-19,14:56,Charity Gala,Community Hall,Premium,826.34,1,826.34,0.0,41.28,826.34,UPI,True
+QBEL7H392Z,21396485,2024-09-21,12:30,Dance Performance,University Auditorium,Premium,739.67,1,739.67,0.0,43.72,739.67,UPI,True
+C1K6JS5V38,38526497,2024-10-18,11:56,Film Screening,Riverfront Plaza,Regular,139.46,2,278.92,0.0,20.76,278.92,Debit Card,True
+4VMU7WRXJ1,85729641,2024-09-24,13:38,Tech Conference,University Auditorium,Silver,302.59,1,302.59,0.0,22.99,302.59,Net Banking,True
+0ZHCDM3N5F,46018329,2024-09-10,11:16,Tech Conference,Grand Theater,Silver,226.19,2,452.38,10.0,23.45,407.14,Credit Card,True
+U9QL1B43DK,25493807,2024-09-21,14:42,Dance Performance,Riverfront Plaza,Regular,164.52,2,329.04,0.0,22.43,329.04,Debit Card,True
+A1LKRT8Y3V,64315927,2024-09-24,22:07,Tech Conference,Central Park,Regular,158.34,1,158.34,0.0,12.95,158.34,UPI,True
+ZRFJ39TV0P,53928410,2024-10-05,17:04,Art Exhibition,Central Park,Regular,182.54,3,547.62,15.0,31.89,465.48,Debit Card,True
+QY3UF18LH5,98743065,2024-09-18,17:30,Summer Music Festival,Sports Stadium,Regular,190.25,1,190.25,0.0,16.58,190.25,UPI,True
+PFJ9U5IATX,36542107,2024-10-06,20:01,Summer Music Festival,Central Park,Regular,163.47,1,163.47,0.0,9.22,163.47,UPI,True
+R3N7AE0UID,72905316,2024-10-08,19:23,Sports Match,Sports Stadium,Silver,314.08,1,314.08,0.0,29.18,314.08,Credit Card,True
+Z0LTE6B2KP,62084317,2024-09-28,22:04,Theater Production,Central Park,Silver,333.79,3,1001.37,15.0,83.82,851.16,UPI,True
+CQX05LBKGZ,48950267,2024-09-15,16:14,Food Festival,City Arena,Premium,691.88,1,691.88,0.0,63.55,691.88,Debit Card,True
+0ME82FYGDH,13954278,2024-10-19,17:39,Charity Gala,City Arena,Gold,376.27,3,1128.81,0.0,97.17,1128.81,Credit Card,True
+U9DLZPAS65,69785230,2024-09-09,19:30,Tech Conference,City Arena,Silver,249.39,1,249.39,0.0,20.18,249.39,UPI,True
+3J8HFUMZTN,82451309,2024-10-11,17:22,Charity Gala,Convention Center,Regular,184.12,2,368.24,0.0,23.04,368.24,UPI,True
+LH69VTK15B,97236058,2024-09-13,15:39,Tech Conference,University Auditorium,Silver,280.06,2,560.12,0.0,54.26,560.12,UPI,True
+6FQT9P0N17,53267814,2024-10-10,12:52,Summer Music Festival,Community Hall,Regular,107.95,2,215.9,0.0,17.06,215.9,Credit Card,True
+HN27R3CEF9,75639248,2024-10-02,21:55,Film Screening,Convention Center,Gold,415.31,1,415.31,0.0,24.91,415.31,UPI,True
+7G0KUB85O3,50243197,2024-10-14,22:36,Theater Production,Sports Stadium,Gold,427.29,1,427.29,20.0,29.74,341.83,Credit Card,True
+V1C3M9KAL5,42897105,2024-09-17,13:55,Sports Match,Sports Stadium,Premium,586.21,2,1172.42,0.0,101.97,1172.42,Credit Card,True
+E9T5MB0D14,91028547,2024-10-15,13:45,Dance Performance,Grand Theater,Regular,159.75,2,319.5,0.0,31.1,319.5,Cash,True
+KF6VP5EG13,18723549,2024-10-19,09:25,Summer Music Festival,University Auditorium,Regular,171.58,2,343.16,0.0,33.62,343.16,UPI,True
+30GR8DV4AY,30714628,2024-09-16,19:53,Theater Production,Riverfront Plaza,Gold,441.67,1,441.67,0.0,35.99,441.67,Debit Card,True
+R71YTWN9XU,83675912,2024-09-27,19:26,Charity Gala,Community Hall,Silver,310.65,2,621.3,0.0,46.61,621.3,Credit Card,True
+9QBZJ7SC2I,29486753,2024-09-11,10:44,Dance Performance,Grand Theater,Regular,114.96,3,344.88,0.0,17.36,344.88,UPI,True
+UY5DFC2R6P,81256734,2024-09-18,12:12,Art Exhibition,Central Park,Regular,187.39,1,187.39,0.0,15.39,187.39,UPI,True
+XV96CPDG23,35498076,2024-10-05,16:21,Film Screening,Sports Stadium,Silver,320.87,3,962.61,0.0,57.34,962.61,Credit Card,True
+29PCQKWZG1,16987325,2024-09-10,15:08,Charity Gala,City Arena,Gold,477.65,2,955.3,0.0,87.8,955.3,UPI,True
+70GC53DVEX,42135678,2024-10-08,20:31,Theater Production,University Auditorium,Silver,321.46,1,321.46,0.0,28.25,321.46,UPI,True
+Q8FGE6J0RU,15739628,2024-09-09,17:34,Summer Music Festival,Central Park,Silver,253.41,2,506.82,0.0,43.38,506.82,Debit Card,True
+73KBVZF08Y,40896127,2024-10-01,22:48,Charity Gala,Riverfront Plaza,Silver,326.14,1,326.14,0.0,20.66,326.14,Credit Card,True
+E79Y1CGSRB,76291435,2024-09-14,10:23,Sports Match,Sports Stadium,Regular,183.24,1,183.24,0.0,10.88,183.24,UPI,True
+IQBFJ0E75T,91426385,2024-10-20,15:05,Film Screening,Grand Theater,Silver,225.83,3,677.49,20.0,55.15,541.99,UPI,True
+QVJPNRYTF2,56037914,2024-09-06,19:57,Charity Gala,Central Park,Premium,935.84,1,935.84,0.0,74.69,935.84,Cash,True
+B02NTG7VDP,70842613,2024-09-25,14:59,Summer Music Festival,Community Hall,Gold,376.83,3,1130.49,0.0,59.4,1130.49,Credit Card,True
+VGL42EIKT1,90782153,2024-10-08,19:15,Dance Performance,University Auditorium,Regular,158.36,1,158.36,0.0,11.09,158.36,UPI,True
+KPIXY29UB0,31759624,2024-09-28,15:01,Comedy Night,Grand Theater,Gold,417.8,2,835.6,25.0,71.03,626.7,UPI,True
+8HKQL7CR6Y,46821539,2024-10-12,17:32,Art Exhibition,University Auditorium,Regular,132.75,2,265.5,0.0,21.67,265.5,Credit Card,True
+54R8HUKDPF,70624853,2024-09-21,16:02,Dance Performance,City Arena,Silver,307.36,5,1536.8,0.0,95.4,1536.8,Debit Card,True
+J13C96W2LV,81247930,2024-10-20,10:33,Summer Music Festival,Central Park,Regular,145.62,3,436.86,0.0,39.52,436.86,Credit Card,True
+3CZGWP06D7,56378429,2024-10-11,19:28,Comedy Night,Grand Theater,Regular,172.43,1,172.43,0.0,14.28,172.43,UPI,True
+0FZEP5MG9W,24981753,2024-09-27,13:08,Film Screening,Grand Theater,Silver,306.79,1,306.79,0.0,21.48,306.79,Credit Card,True
+6DS8VLRZX9,37521698,2024-10-18,19:49,Art Exhibition,Sports Stadium,Regular,139.67,2,279.34,0.0,18.1,279.34,Debit Card,True
+UP6VKGQAF9,98156432,2024-10-01,16:12,Tech Conference,Convention Center,Gold,391.6,1,391.6,0.0,28.76,391.6,UPI,True
+QNU2KO48V5,83254716,2024-09-15,15:17,Film Screening,Community Hall,Silver,244.68,1,244.68,0.0,13.28,244.68,Net Banking,True
+N7FZ3UM9S8,61984273,2024-10-20,22:45,Comedy Night,Sports Stadium,Regular,178.06,1,178.06,0.0,9.73,178.06,Debit Card,True
+YZU2Q3F0WT,29047318,2024-09-19,20:43,Food Festival,Central Park,Silver,253.96,1,253.96,0.0,17.95,253.96,UPI,True
+9DPAXR0CIE,45821376,2024-09-08,11:14,Film Screening,Riverfront Plaza,Regular,188.32,2,376.64,0.0,28.18,376.64,Credit Card,True
+3F8PB2JL7Y,62710394,2024-09-07,18:24,Film Screening,University Auditorium,Silver,275.94,1,275.94,0.0,27.3,275.94,UPI,True
+N1YQMK2ZIV,21649785,2024-10-15,20:37,Art Exhibition,Convention Center,Regular,193.48,1,193.48,0.0,15.66,193.48,UPI,True
+H47VGEI5YT,87540362,2024-09-23,22:14,Dance Performance,Community Hall,Gold,441.73,1,441.73,25.0,34.53,331.3,Credit Card,True
+C5XBMFQ687,63908542,2024-09-06,10:17,Comedy Night,Riverfront Plaza,Premium,651.93,1,651.93,0.0,34.41,651.93,UPI,True
+TJN7UGRF6C,58194762,2024-10-02,15:47,Summer Music Festival,City Arena,Regular,107.83,2,215.66,0.0,20.72,215.66,Credit Card,True
+PWXSZ1Y49O,91256340,2024-09-05,19:34,Art Exhibition,Convention Center,Silver,297.63,3,892.89,0.0,66.37,892.89,UPI,True
+I9JKGE7L5N,26845173,2024-10-08,11:33,Tech Conference,University Auditorium,Silver,302.05,2,604.1,0.0,41.26,604.1,Debit Card,True
+Z9OJC35BV4,35674129,2024-09-29,14:19,Art Exhibition,Central Park,Regular,119.56,1,119.56,5.0,8.6,113.58,Cash,False
+XWFEP5D9LT,98547612,2024-09-09,13:05,Summer Music Festival,Grand Theater,Gold,375.19,1,375.19,0.0,31.77,375.19,UPI,True
+A43XBHZMLS,70418325,2024-10-10,11:39,Art Exhibition,Riverfront Plaza,Regular,119.09,3,357.27,0.0,30.98,357.27,Credit Card,True
+EU9L3ZMHJW,89346270,2024-09-25,11:20,Comedy Night,Community Hall,Regular,154.82,1,154.82,0.0,12.77,154.82,UPI,True
+JD09PHA2RU,31679250,2024-09-12,09:04,Film Screening,Grand Theater,Regular,171.31,1,171.31,0.0,12.98,171.31,UPI,True
+WLYK6R1M47,94725613,2024-09-17,18:59,Art Exhibition,Sports Stadium,Silver,325.41,2,650.82,0.0,63.33,650.82,Credit Card,True
+6WNKU4L3PB,56703182,2024-09-16,09:51,Sports Match,Convention Center,Silver,242.31,3,726.93,5.0,48.76,690.58,UPI,True
+70UM91RQZI,82157469,2024-09-07,19:36,Theater Production,Grand Theater,Gold,416.77,2,833.54,0.0,48.55,833.54,Credit Card,True
+9XNU2YFO3E,74516983,2024-09-08,16:35,Film Screening,Riverfront Plaza,Regular,167.35,1,167.35,0.0,11.58,167.35,UPI,True
+SLDQ3GZRM2,98352164,2024-10-04,12:11,Film Screening,Community Hall,Silver,287.24,3,861.72,15.0,69.7,732.46,Credit Card,True
+VGY4U3T568,59871634,2024-09-05,17:42,Art Exhibition,Grand Theater,Silver,253.87,2,507.74,0.0,50.76,507.74,UPI,True
+I3U96X5D42,17839046,2024-09-22,22:51,Film Screening,Community Hall,Silver,345.63,1,345.63,0.0,28.86,345.63,Credit Card,True
+TU0PA59JDQ,90734251,2024-09-26,21:19,Dance Performance,Central Park,Regular,197.49,2,394.98,0.0,26.94,394.98,UPI,True
+5GJLFM4SXA,65392847,2024-10-08,15:55,Film Screening,Sports Stadium,Regular,186.05,4,744.2,0.0,65.32,744.2,Credit Card,True
+YM1EP7IFR6,47529863,2024-09-21,12:39,Tech Conference,Convention Center,Silver,295.42,1,295.42,0.0,22.11,295.42,Debit Card,True
+LCVQ63ZJU9,71309682,2024-10-05,12:04,Comedy Night,Riverfront Plaza,Regular,175.64,3,526.92,0.0,29.69,526.92,UPI,True
+WT9PGVR4H5,28679514,2024-09-18,13:17,Tech Conference,University Auditorium,Regular,106.53,1,106.53,0.0,7.97,106.53,Cash,True
+GZWFJ8S0LA,96735421,2024-09-22,21:37,Comedy Night,Convention Center,Premium,737.92,1,737.92,0.0,43.71,737.92,Credit Card,True
+95XPRQ8W27,49657238,2024-10-17,14:32,Summer Music Festival,City Arena,Regular,158.92,3,476.76,0.0,42.91,476.76,UPI,True
+R6XQWJ4D7K,83952107,2024-09-15,18:46,Summer Music Festival,University Auditorium,Premium,517.06,2,1034.12,0.0,57.4,1034.12,Credit Card,True
+9Y38DKEJRM,64213795,2024-09-20,15:16,Dance Performance,City Arena,Regular,193.65,1,193.65,0.0,17.35,193.65,UPI,True
+BXIVTLQ8EK,51473062,2024-10-19,21:59,Comedy Night,Sports Stadium,Silver,304.96,2,609.92,0.0,40.85,609.92,Credit Card,True
+58S3JKBLXO,39564827,2024-09-24,16:41,Dance Performance,Riverfront Plaza,Regular,187.51,2,375.02,0.0,33.27,375.02,UPI,True
+CL653B7PDE,17653048,2024-10-17,20:57,Tech Conference,Grand Theater,Gold,378.42,1,378.42,0.0,36.27,378.42,Net Banking,True
+JZS8XF9H7P,74623915,2024-09-25,17:13,Art Exhibition,Community Hall,Regular,143.79,1,143.79,10.0,9.81,129.41,UPI,True
+3XNTBWJ5H6,82467135,2024-10-21,19:22,Film Screening,Central Park,Silver,307.15,1,307.15,0.0,30.29,307.15,Credit Card,True
+5KECWIV3GR,30592814,2024-09-17,11:45,Theater Production,Convention Center,Regular,157.34,4,629.36,5.0,55.38,597.89,Debit Card,False
+8R62ZMFQ71,56783419,2024-09-22,13:26,Charity Gala,Community Hall,Regular,175.54,2,351.08,0.0,22.84,351.08,UPI,True
+V54K8OJ0WT,40156972,2024-10-07,22:09,Summer Music Festival,Grand Theater,Regular,165.92,1,165.92,0.0,13.02,165.92,Cash,True
+XGFZ2PI8T0,91463250,2024-09-05,16:42,Film Screening,Convention Center,Regular,180.16,1,180.16,0.0,16.19,180.16,Credit Card,True
+Q7WNAC63DR,27951634,2024-09-27,14:37,Theater Production,Sports Stadium,Gold,483.06,1,483.06,0.0,48.14,483.06,UPI,True
+TXWFD7I40B,63784291,2024-09-14,10:11,Tech Conference,City Arena,Silver,276.28,2,552.56,25.0,48.35,414.42,Credit Card,True
+LR2X6NF7ZA,14865273,2024-10-06,12:37,Film Screening,Convention Center,Regular,110.43,3,331.29,0.0,18.97,331.29,UPI,True
+JH94D3EAFQ,75382946,2024-10-01,09:26,Summer Music Festival,Central Park,Silver,289.15,1,289.15,0.0,19.46,289.15,Debit Card,True
+5Z6WPVG8K0,93682415,2024-09-23,17:29,Art Exhibition,City Arena,Premium,915.43,1,915.43,0.0,78.76,915.43,Credit Card,True
+B1D3K5Z7US,26743895,2024-09-26,13:40,Art Exhibition,University Auditorium,Regular,144.83,2,289.66,0.0,22.88,289.66,UPI,True
+R7PJEN3Q8A,84721596,2024-10-04,20:56,Tech Conference,Convention Center,Gold,407.58,2,815.16,0.0,57.04,815.16,Wallet,True
+UI7TQ09CVD,37498615,2024-10-16,15:28,Dance Performance,Riverfront Plaza,Regular,187.03,1,187.03,0.0,11.31,187.03,UPI,True
+DHRLVN6XU7,59817326,2024-09-20,14:07,Summer Music Festival,Grand Theater,Silver,239.87,4,959.48,0.0,81.97,959.48,Credit Card,True
